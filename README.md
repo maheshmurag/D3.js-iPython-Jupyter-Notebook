@@ -10,3 +10,7 @@ The Process:
 Ideas borrowed from:   
 1. http://bl.ocks.org/mbostock/3180395    
 2. https://github.com/skariel/IPython_d3_js_demo    
+
+
+TODO:
+Replace canvas with SVG for mouse interactivity.
